@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Omar Lugo
 email: 
-description: "Musings of a Computer Scientist."
+description: "data scientist"
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://lugomar.github.io"
+twitter_username: lugo_oe
+github_username:  lugomar
 
 # Build settings
 markdown: kramdown
