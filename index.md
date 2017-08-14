@@ -5,6 +5,10 @@ You can use the [editor on GitHub](https://github.com/lugomar/lugomar.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+\[
+R_{\mu \nu}- {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+\]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 1jnmklmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
